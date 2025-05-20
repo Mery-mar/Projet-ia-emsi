@@ -1,8 +1,6 @@
 # 🧠 Application Desktop d'Intelligence Artificielle – Secteur Automobile
 
 Projet réalisé dans le cadre du module **Modèles Statistiques de l’Intelligence Artificielle** – EMSI (3ème année Génie Informatique).  
-Encadrante : **Dr. El Mkhalet Mouna**  
-Réalisé par : **Meryem Mar**
 
 ---
 

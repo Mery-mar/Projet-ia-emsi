@@ -24,7 +24,7 @@ L'application comprend :
 - 📈 Une zone graphique intégrée (`matplotlib`)
 - 🧾 Une zone de texte dynamique qui explique le fonctionnement de chaque modèle
 
-![Aperçu de l'application](images/screenshot.png)
+![Aperçu de l'application](screenshot.png)
 
 ---
 

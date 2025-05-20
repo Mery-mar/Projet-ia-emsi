@@ -1,0 +1,6 @@
+tk
+numpy
+matplotlib
+scikit-learn
+statsmodels
+pillow
